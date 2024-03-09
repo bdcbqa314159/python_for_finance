@@ -1,0 +1,8 @@
+# Chapter 4 - Using Python as a Financial Calculator
+
+The functions have been coded along the reading of this chapter. The concepts are straight forward if you have some python experience and some basic financial skills.
+
+## Summary
+
+In this chapter, we learned how to write simple functions, such as functions to estimate the present value of one future cash flow, the future value of one present value, the present value of annuity, the future value of annuity, the present value of perpetuity, the price of a bond, and Internal Rate of Return (IRR). Obviously, it is difficult and time consuming to activate several dozens of small functions separately. How to combine many small functions into a single Python program was be the focus of this chapter. In other words, we planned to generate a Python program (module) called fin101.py and used it as a financial calculator. After launching Python, we issued one command from fin101 import * to activate or load or import all of our functions. To sum it up, after reading this chapter, you should be able to write a Python program (module), including almost all the formulae used in courses such as corporate finance and investment.
+In Chapter 4, 13 Lines of Python to Price a Call Option, we will show how to write a Python program to price a call option. In total, there are only 13 lines of code. To make it suitable for any and all backgrounds, there are no mathematic formulae related to the option theory.
