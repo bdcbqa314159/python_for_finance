@@ -1,0 +1,8 @@
+# Chapter 11 - Monte Carlo Simulation and Options
+
+## Summary
+In this chapter, we discussed several types of distributions: normal, standard normal, lognormal, and Poisson. Since the assumption that stocks follow a lognormal distribution and returns follow a normal distribution is the cornerstone for option theory, the Monte Carlo simulation is used to price European options. Under certain scenarios, Asian options might be more effective in terms of hedging. Exotic options are more complex than the vanilla options since the former have no closed-form solution, while the latter could be priced by the Black-Scholes-Merton option model. One way to price these exotic options is to use the Monte Carlo simulation. The Python programs to price an Asian option and lookback options are discussed
+in detail.
+In the next chapter, we will discuss various volatility measures, such as our conventional standard deviation, Lower Partial Standard Deviation (LPSD). Using the standard deviation of returns as a risk measure is based on a critical assumption that stock returns follow a normal distribution. Because of this, we introduce several normality tests. In addition, we graphically show volatility clustering—high volatility is usually followed by a high-volatility period, while low volatility is usually followed by a low-volatility period. To deal with this phenomenon, the Autoregressive conditional heteroskedasticity (ARCH) process was developed by Angel (1982),
+and the Generalized AutoRegressive Conditional Heteroskedasticity (GARCH) processes, which are an extension of ARCH was developed by Bollerslev (1986).
+Their graphical presentations and related Python programs will be also covered in the next chapter.
