@@ -1,0 +1,6 @@
+# Chapter 9 - The Black-Scholes-Merton Option Model
+
+## Summary
+In this chapter, we discussed the Black-Scholes-Merton option model in detail. In particular, we covered the payoff and profit/loss functions and their graphical representations of call and put options; various trading strategies and their visual presentations, such as covered call, straddle, butterfly, calendar spread, normal distribution, standard normal distribution, and cumulative normal distribution; delta, gamma and other Greeks; the put-call parity; European versus American options; and the binomial tree method to price options and hedging.
+In the next chapter, Python Loops and Implied Volatility, first we will discuss several types of Python loops. Then, we will explain how to find the implied volatility for
+a call or put option. In addition, we will explain how to download real-world option data from several public available sources. Using that data, we will estimate implied volatility, volatility skewness, and their applications.

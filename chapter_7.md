@@ -1,0 +1,6 @@
+# Chapter 7 - Visual Finance via Matplotlib
+
+## Summary
+
+In this chapter, we showed how to use the matplotlib module to vividly explain many financial concepts by using graph, pictures, color, and size. For example, in a two-dimensional graph, we showed a few stocks' returns and volatility, the NPV profile, multiple IRRs, and the portfolio diversification effect.
+In Chapter 8, Statistical Analysis of Time Series, first we demonstrate how to retrieve historical time series data from several public data sources, such as Yahoo! Finance, Google Finance, Federal Reserve Data Library, and Prof. French's Data Library. Then, we discussed various statistical tests, such as T-test, F-test, and normality test. In addition, we presented Python programs to run capital asset pricing model (CAPM), run a Fama-French three-factor model, estimate the Roll (1984) spread, estimate Value at Risk (VaR) for individual stocks, and also estimate the Amihud (2002) illiquidity measure, and the Pastor and Stambaugh (2003) liquidity measure for portfolios. For the issue of anomaly in finance, we tested the existence of the so- called January effect. For high-frequency data, we explained briefly how to draw intra-day price movement and retrieved data from the Trade, Order, Report and Quote (TORQ) database and the Trade and Quote (TAQ) database.
